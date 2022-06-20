@@ -107,5 +107,5 @@ jobs:
               exit 1
             fi
           else
-            echo "PROMOTE set to False, skipping promoting to IAP.
+            echo "PROMOTE set to False, skipping promoting to IAP."
           fi
